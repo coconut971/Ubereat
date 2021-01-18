@@ -1,1 +1,2 @@
-test rest
+Pour récupérer les modif et se mettre à jour : pull
+Pour git, ajouter avec le +, commit et push
